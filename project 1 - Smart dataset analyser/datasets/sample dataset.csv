@@ -1,0 +1,11 @@
+id,age,income,city,purchase,score,status
+1,25,50000,New York,Yes,80,active
+2,30,60000,Los Angeles,No,90,active
+3,,55000,Chicago,Yes,85,active
+4,40,65000,New York,No,92,active
+5,22,48000,Chicago,Yes,78,active
+2,30,60000,Los Angeles,No,90,active
+7,35,,Houston,Yes,,active
+8,28,52000,New York,No,88,active
+4,40,65000,New York,No,92,active
+5,22,48000,Chicago,Yes,78,active
